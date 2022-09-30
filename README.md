@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do DEV Gabriel Silva 😎🖥️
+## Bem-vindo(a) ao perfil do Dev. Gabriel Silva 😎🖥️
 
   <div class="header">
    <img align="center" alt="Coding" height="250em" width="1012px" 
