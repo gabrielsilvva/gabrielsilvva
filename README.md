@@ -1,6 +1,9 @@
 ## Bem-vindo(a) ao perfil do DEV Gabriel Silva 😎🖥️
 
-<img align="center" alt="Coding" width="400" src="https://wallpaperaccess.com/full/84248.png">
+  <div class="header">
+   <img align="center" alt="Coding" height="250em" width="100%" 
+   src="https://wallpaperaccess.com/full/84248.png">
+  </div><br>
 
 <div>
    <a href="https://github.com/silvagabs">
