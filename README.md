@@ -1,7 +1,8 @@
 ## Bem-vindo(a) ao perfil do DEV Gabriel Silva 😎🖥️
 
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b3/45/e4/b345e46becdaeaaa9dcf6ea6144c91a9.jpg">
- <div>
+<img align="center" alt="Coding" width="400" src="https://wallpaperaccess.com/full/84248.png">
+
+<div>
    <a href="https://github.com/silvagabs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvagabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvagabs&layout=compact&langs_count=6&theme=tokyonight"/>
