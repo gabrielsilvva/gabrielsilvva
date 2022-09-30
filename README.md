@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do DEV Gabriel Silva 😎🖥️
 
   <div class="header">
-   <img align="center" alt="Coding" height="250em" width="100%" 
+   <img align="center" alt="Coding" height="250em" width="894px" 
    src="https://wallpaperaccess.com/full/84248.png">
   </div><br>
 
