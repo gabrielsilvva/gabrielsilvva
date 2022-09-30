@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do DEV Gabriel Silva 😎🖥️
+## Bem-vindo(a) ao perfil do Dev. Gabriel Silva 😎🖥️
 
   <div class="header">
    <img align="center" alt="Coding" height="250em" width="894px" 
@@ -6,9 +6,9 @@
   </div><br>
 
 <div>
-   <a href="https://github.com/silvagabs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvagabs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvagabs&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/gabrielsilvva">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvva&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
