@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev. Gabriel Silva 😎🖥️
 
   <div class="header">
-   <img align="center" alt="Coding" height="500px" width="1920px" 
+   <img align="center" alt="Coding" height="400px" width="1920px" 
    src="Imagem para meu Read-me GitHub.png">
   </div><br>
 
