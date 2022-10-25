@@ -1,7 +1,22 @@
   <div class="header">
    <img align="center" alt="Coding" height="400px" width="1920px" 
-   src="image1.png">
+   src="./img/image1.png">
   </div><br>
+
+<p align="left">
+  <a href="https://github.com/gabrielsilvva/gabrielsilvva">
+    <img src="https://komarev.com/ghpvc/?username=gabrielsilvva" alt="page views" />
+  </a>
+  <a href="https://gabrielsilvva.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/gabrielsilvva?logo=read-the-docs">
+  </a>
+  <a href="https://github.com/gabrielsilvva?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/gabrielsilvva?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
 <div>
    <a href="https://github.com/gabrielsilvva">
@@ -9,15 +24,25 @@
    <img width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvva&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<h2 align="left" id="gabrielsilvva-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#gabrielsilvva-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+
  
- <br>
- 
-  ### Quer me conhecer mais? Me segue nas redes sociais abaixo!
+  ### SIGA-ME NAS MINHAS REDES SOCIAIS
  
 <div class= redessociais> 
   
