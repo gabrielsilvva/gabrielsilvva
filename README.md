@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@u.silwa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/u.silwa/)](https://instagram.com/u.silwa)
 [![Gmail Badge](https://img.shields.io/badge/-GabrielSilva-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielsilva.edifi@gmail.com)](mailto:gabrielsilva.edifi@gmail.com)
 [![Github Badge](https://img.shields.io/github/followers/gabrielsilvva?color=green&logo=github)](https://github.com/gabrielsilvva?tab=followers)
-[![Views Badge target="blank"](https://komarev.com/ghpvc/?username=gabrielsilvva)](https://github.com/gabrielsilvva/gabrielsilvva)
+[![Views Badge ](https://komarev.com/ghpvc/?username=gabrielsilvva)](https://github.com/gabrielsilvva/gabrielsilvva)
 
 <div>
    <a href="https://github.com/gabrielsilvva">
