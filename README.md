@@ -19,6 +19,8 @@
 
 </div>
 
+
+
 <h2 align="left" id="gabrielsilvva-tech">Minhas Skills</h2>
 
 <table>
@@ -43,6 +45,5 @@
     </td>
   </tr>
 </table>
-
 
 
