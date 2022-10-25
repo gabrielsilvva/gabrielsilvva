@@ -44,3 +44,4 @@
   </tr>
 </table>
 
+![Snake animation](https://github.com/gabrielsilvva/gabrielsilvva/blob/output/github-contribution-grid-snake.svg)
