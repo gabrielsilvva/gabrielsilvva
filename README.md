@@ -29,15 +29,18 @@
       </a>
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+      <a href="#gabrielsilvva-tech">
+        <img src="./img/logo-css-3-2048.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#gabrielsilvva-tech">
+        <img src="./img/732212.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
   </tr>
 </table>
 
-### SIGA-ME NAS MINHAS REDES SOCIAIS
-
-<div class= redessociais> 
-  
-  <a href="https://instagram.com/u.silwa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href = "gabrielsilva.edifi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
