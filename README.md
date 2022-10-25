@@ -3,20 +3,14 @@
    src="./img/image1.png">
   </div><br>
 
-<p align="left">
-  <a href="https://github.com/gabrielsilvva/gabrielsilvva">
-    <img src="https://komarev.com/ghpvc/?username=gabrielsilvva" alt="page views" />
-  </a>
-  <a href="https://gabrielsilvva.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/gabrielsilvva?logo=read-the-docs">
-  </a>
-  <a href="https://github.com/gabrielsilvva?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/gabrielsilvva?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielsilva-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsilva-desenvolvedor/)](https://www.linkedin.com/in/gabrielsilva-desenvolvedor/)
+[![Twitter Badge](https://img.shields.io/badge/-ugabrielsilwa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ugabrielsilwa)](https://twitter.com/ugabrielsilwa)
+[![Instagram Badge](https://img.shields.io/badge/-@u.silwa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/u.silwa/)](https://instagram.com/u.silwa)
+[![Gmail Badge](https://img.shields.io/badge/-GabrielSilva-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielsilva.edifi@gmail.com)](mailto:gabrielsilva.edifi@gmail.com)
+[![Github Badge](https://img.shields.io/github/followers/gabrielsilvva?color=green&logo=github)](https://github.com/gabrielsilvva?tab=followers)
+[![Views Badge](https://komarev.com/ghpvc/?username=gabrielsilvva)](https://github.com/gabrielsilvva/gabrielsilvva)
 
 <div>
    <a href="https://github.com/gabrielsilvva">
@@ -25,9 +19,7 @@
 
 </div>
 
-<h2 align="left" id="gabrielsilvva-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="gabrielsilvva-tech">Minhas Skills</h2>
 
 <table>
   <tr>
@@ -40,16 +32,12 @@
   </tr>
 </table>
 
+### SIGA-ME NAS MINHAS REDES SOCIAIS
 
- 
-  ### SIGA-ME NAS MINHAS REDES SOCIAIS
- 
 <div class= redessociais> 
   
   <a href="https://instagram.com/u.silwa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href = "gabrielsilva.edifi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-   
+<a href = "gabrielsilva.edifi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
